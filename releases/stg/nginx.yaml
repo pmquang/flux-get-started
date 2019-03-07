@@ -10,7 +10,7 @@ metadata:
 spec:
   releaseName: nginx-prod
   chart:
-    git: git@github.com:rai506/gitops-helm
+    git: git@github.com:pmquang/flux-get-started.git
     path: charts/nginx
     ref: master
   values:
