@@ -16,7 +16,7 @@ spec:
   values:
     index: >-
       <h1>Hello</h1>
-      <p>This is a prod</p>
+      <p>This is a production</p>
     
     image: rai506/nginx:0.4.11
     replicaCount: 1
